@@ -1,0 +1,6 @@
+/* Write your code here. */
+.result-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

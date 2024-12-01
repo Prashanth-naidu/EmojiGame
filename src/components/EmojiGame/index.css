@@ -1,0 +1,24 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+.unordered-list {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+  max-width: 1000px;
+  flex-wrap: wrap;
+}
